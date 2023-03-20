@@ -14,10 +14,11 @@ Example:
 ![226117181-b6881e55-f36a-40ae-aa99-f2b31913bad7](https://user-images.githubusercontent.com/128220508/226120674-4547753f-942d-4cc2-b42f-b12909aa237c.png)  
 
 ## Implementation
-AE.py  
-1.train AE model  
+VAE.py  
+1.train VAE model  
 2.print original image and generate image  
 3.print the generated images of [3, 227, 841, 1475]  
-4.model weight: AE.pth  
+4.model weight: VAE.pth  
+5.generate gen_data.npy, gen_label.npy  
 
 Detail is in the report folder.
