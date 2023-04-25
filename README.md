@@ -12,10 +12,10 @@ Example:
 
 ## Implementation
 VAE.py  
-1.train VAE model  
-2.print original image and generate image  
-3.print the generated images of [3, 227, 841, 1475]  
-4.model weight: VAE.pth  
-5.generate gen_data.npy, gen_label.npy  
+1. Train VAE model  
+2. Print original image and generate image  
+3. Print the generated images of [3, 227, 841, 1475]  
+4. Model weight: VAE.pth  
+5. Generate gen_data.npy, gen_label.npy  
 
 Detail is in the report folder.
